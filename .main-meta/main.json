@@ -3,10 +3,10 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-adc-window-comparator",
+        "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-adc-window-comparator-mplab",
         "version": "1.0.0",
         "displayName": "ADC Window Comparator",
-        "projectName": "avr128da48-cnano-adc-window-comparator",
+        "projectName": "avr128da48-cnano-adc-window-comparator-mplab",
         "shortDescription": "This application showcases the window comparator feature of the ADC.",
         "ide": {
             "name": "MPLABX",
@@ -38,7 +38,6 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "Peripherals",
             [
                 "Peripherals",
                 "ADC"
