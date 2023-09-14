@@ -68,7 +68,7 @@ This chapter shows how to use the MPLAB X IDE to program an AVR device with an `
 2. Open the `Example_Project.X` project in MPLAB X IDE.
 
 3. Set the `Example_Project.X` project as main project:
-  <br>Right click on the project in the **Projects** tab and click Set as Main Project.
+  <br>Right click the project in the **Projects** tab and click Set as Main Project.
   <br><img src="images/Program_Set_as_Main_Project.PNG" width="400">
 
 4. Clean and build the `Example_Project.X` project:
@@ -76,7 +76,7 @@ This chapter shows how to use the MPLAB X IDE to program an AVR device with an `
   <br><img src="images/Program_Clean_and_Build.PNG" width="400">
 
 5. Select AVRxxxxx Curiosity Nano in the Connected Hardware Tool section of the project settings:
-  <br>Right click on the project and click Properties.
+  <br>Right click the project and click Properties.
   <br>Click the arrow under the Connected Hardware Tool.
   <br>Select the AVRxxxxx Curiosity Nano by clicking on the SN.
   <br>Click **Apply** and then **OK**.
