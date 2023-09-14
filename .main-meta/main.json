@@ -5,7 +5,7 @@
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-cnano-adc-window-comparator-mplab",
         "version": "1.0.2",
-        "displayName": "ADC Window Comparator",
+        "displayName": "Analog-to-Digital Converter (ADC) — Window Comparator Using the AVR128DA48 Microcontroller",
         "projectName": "avr128da48-cnano-adc-window-comparator-mplab",
         "shortDescription": "This application showcases the window comparator feature of the ADC.",
         "ide": {
@@ -37,7 +37,7 @@
             "ADC"
         ],
         "keywords": [
-            "C programming"
+            "C programming", "Window Compare"
         ],
         "additionalData": {
             "longDescription": {
